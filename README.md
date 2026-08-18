@@ -48,7 +48,9 @@ An interactive Power BI dashboard designed to evaluate core business metrics, op
 
 | Landing Page | Executive Performance | Operational Efficiency |
 | :---: | :---: | :---: |
-| ![Landing Page](./images/landing_page.png) | ![Executive Performance](./images/exec_performance.png) | ![Operational Efficiency](./images/logistics_efficiency.png) |
+| ![Landing Page](./landing_page.png) | ![Executive Performance](./exec_performance.png) | ![Operational Efficiency](./logistics_efficiency.png) |
+
+---
 
 
 
